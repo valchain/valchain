@@ -1,8 +1,7 @@
 package com.valchain;
 
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 import de.felixroske.jfxsupport.AbstractJavaFxApplicationSupport;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ValMain extends AbstractJavaFxApplicationSupport{
